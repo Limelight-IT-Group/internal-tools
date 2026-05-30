@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.venv
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+*.key
+*.pem
+secrets/
+credentials/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+*.log
+logs/
+tmp/
